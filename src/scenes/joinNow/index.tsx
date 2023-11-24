@@ -1,4 +1,3 @@
-import React from 'react'
 import { SelectedPage } from '../../types/types'
 import ContactUsPageGraphic  from '../../assets/ContactUsPageGraphic.png'
 import HeadingText from '../../shared/HeadingText'

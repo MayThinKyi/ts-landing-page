@@ -1,4 +1,3 @@
-import React from 'react'
 import { SelectedPage } from '../../types/types'
 import EvolveText from '../../assets/EvolveText.png'
 import HomePageGraphic from '../../assets/HomePageGraphic.png'
